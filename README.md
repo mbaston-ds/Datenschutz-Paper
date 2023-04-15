@@ -1,3 +1,3 @@
 # Datenschutz-Paper
 
-- [Auswirkungen des EuGH-Urteils](Auswirkungen-EuGH.md)
+- [Auswirkungen des EuGH-Urteils](Paper/Auswirkungen-EuGH.md)
