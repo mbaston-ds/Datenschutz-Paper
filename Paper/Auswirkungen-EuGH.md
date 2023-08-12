@@ -1,4 +1,4 @@
-# Auswirkungen der Entscheidung des EuGH vom 30.03.2023 auf die Wirksamkeit von Betriebs- und Dienstvereinbarungen
+
   
 Sowohl gesetzliche Normen der Mitgliedsstaaten als auch Dienst- sowie Betriebsvereinbarungen müssen den Voraussetzungen des Art. 88 DSGVO genügen. Dies hat der Europäische Gerichtshof (EuGH) in seinem Urteil vom 30.03.2023 (C‑34/21) festgestellt. Dies hat auf die Rechtmäßigkeit und damit die Anwendbarkeit des streitgegenständlichen § 23 Abs. 1 des Hessischen Datenschutzgesetzes (HDSIG) erhebliche Auswirkungen. Der EuGH hatte erhebliche Zweifel daran, dass insbesondere die Voraussetzungen des Art. 88 Abs. 2 DSGVO erfüllt sind. Das vorlegende Verwaltungsgericht Frankfurt a.M. hat nun endgültig zu entscheiden, ob nach den Maßstäben des EuGH die Norm des § 23 Abs. 1 HDSIG noch anwendbar sein kann und falls nicht, ob eine datenschutzrechtliche Wirkung noch unter Berücksichtigung des Art. 6 Abs. 1 lit. e) DSGVO in Frage kommt ((siehe dazu die Vorlagefrage Nr. 2).  
 
